@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on Computer Vision, NLP and ML projects
 - 💬 Ask me about: code and novels
-- 📫 How to reach me: sagartomar.269@gmail.com
+- 📫 How to reach me: aryatomar.work@gmail.com
 
 <h3><strong>Languages and Tools that I use</strong></h3>  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
